@@ -10,12 +10,5 @@ Hasil akhir akan disimpan ke dalam file **`results.txt`**.
 
 ---
 
-## Struktur Data
-```cpp
-struct studentType {
-    string studentFName;  // Nama depan mahasiswa
-    string studentLName;  // Nama belakang mahasiswa
-    int testScore;        // Nilai ujian
-    char grade;           // Grade huruf (A, B, C, D, F)
-};
+
 
