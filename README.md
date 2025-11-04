@@ -8,7 +8,7 @@ Program kemudian akan:
 - Mencari **nilai tertinggi** serta **menampilkan nama mahasiswa yang memperoleh nilai tersebut**.  
 Hasil akhir akan disimpan ke dalam file **`results.txt`**.
 
----
+
 
 
 
